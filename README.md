@@ -2,15 +2,6 @@
 
 Stack game using flutter and flame engine
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="240" height="539" alt="Image" src="https://github.com/user-attachments/assets/3ae32fb8-14ff-43e0-b95c-cf16b94e2d27" />
+<img width="240" height="539" alt="Image" src="https://github.com/user-attachments/assets/de94bb5b-dd1f-4b03-ae1a-a7baafbdb3be" />
+<img width="240" height="539" alt="Image" src="https://github.com/user-attachments/assets/0b52d0e7-f398-4b55-9db7-95e432962cd0" />
